@@ -12,3 +12,5 @@ color:
     - '#5C6B73'
     - '#253237'
 name: Dubious Virtue
+content_rating:
+  adult: true
